@@ -8,4 +8,4 @@ _yay_
 
 [back](./)
 
-[myfile](./myfile.pdf)
+![myfile](myfile.pdf)
