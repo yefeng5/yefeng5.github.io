@@ -6,4 +6,4 @@ Welcome to my website!!!
 
 [Link to another page](./another-page.html).
 
-![myfile](myfile.pdf)
+<a href="myfile.pdf">A brief cv</a>.
