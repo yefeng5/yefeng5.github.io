@@ -7,5 +7,3 @@ layout: default
 _yay_
 
 [back](./)
-
-![myfile](myfile.pdf)
